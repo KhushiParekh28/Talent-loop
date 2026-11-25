@@ -1,6 +1,6 @@
 # talent.loop — AI-Powered Gig Marketplace & Quantitative Talent Matching Engine
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=flat-square&logo=vercel)](https://YOUR-VERCEL-URL.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=flat-square&logo=vercel)](https://talent-loop-bipb.vercel.app)
 [![Next.js](https://img.shields.io/badge/Next.js-App%20Router-000000?style=flat-square&logo=nextdotjs)](https://nextjs.org/)
 [![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL%20%2B%20pgvector-3ECF8E?style=flat-square&logo=supabase)](https://supabase.com/)
 [![Google Gemini](https://img.shields.io/badge/AI-Gemini%20API-4285F4?style=flat-square&logo=google)](https://ai.google.dev/)
